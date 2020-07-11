@@ -2,7 +2,7 @@
 ## Welcome to my Github
 <!--
 **bibekuchiha/bibekuchiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Prbability and Statistics.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Connect with me on Linkedin: https://www.linkedin.com/in/bibek-shah-shankhar/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a Sleepy head. :D 
--->
+
+
