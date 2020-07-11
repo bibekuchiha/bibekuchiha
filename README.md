@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: Connect with me on Linkedin: https://www.linkedin.com/in/bibek-shah-shankhar/
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I am a Sleepy head. :D 
+- ⚡ Fun fact: I'm not boring. 😄 
 
 
