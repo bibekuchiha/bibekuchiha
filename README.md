@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Science Projects.
 - 🤔 I’m looking for help with Data science jobs/intern.
 - 💬 Ask me about ...
-- 📫 How to reach me: Connect with me on Linkedin: https://www.linkedin.com/in/bibek-shah-shankhar/
+- 📫 How to reach me: Connect with me on [**Linkedin**](https://www.linkedin.com/in/bibek-shah-shankhar/)
 - 😄 Pronouns: Software Engineer | Data Science | Machine Learning
 - ⚡ Fun fact: I'm not boring. 😄 
 
