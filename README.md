@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Prbability and Statistics for data science.
+- 🔭 I’m currently working on Probability and Statistics for data science.
 - 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate on Data Science Projects.
 - 🤔 I’m looking for help with Data science jobs/intern.
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 ### 💬 If you want to know more about me then please visit [**About Me**](https://github.com/bibekuchiha/bibekuchiha/blob/master/ABOUT.md)
 
+# Thanks for visiting 
