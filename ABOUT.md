@@ -1,7 +1,7 @@
 ### Hello :wave:
 
 I'm **[Bibek Shah Shankhar](https://www.linkedin.com/in/bibek-shah-shankhar/)**, a human being who is passionate about simplifying things through technology.
-Currently I am Learning and working on **[Data Science | Machine Learning | Deep learning](https://www.linkedin.com/in/bibek-shah-shankhar/)**. I work with python programming language interms of data science and Machine learning. **You can find me on [LinkedIn](https://www.linkedin.com/in/bibek-shah-shankhar/)**.
+Currently I am Learning and working on **[Data Science | Machine Learning | Deep learning](https://www.linkedin.com/in/bibek-shah-shankhar/)**. I work with python programming language for  data science and Machine learning. **You can find me on [LinkedIn](https://www.linkedin.com/in/bibek-shah-shankhar/)**.
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@BibekShahShankhar&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/bibek-shah-shankhar/)
 
