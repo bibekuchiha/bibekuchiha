@@ -13,10 +13,8 @@ Currently I am Learning and working on **[Data Science | Machine Learning | Deep
  My charitable motivation, coupled with a passion for what I am doing, inspires me for Open Source. 
 I am liking to get **addicted to green dots** on [GitHub](https://github.com/bibekuchiha?tab=repositories).
 
-[![Bibek's github stats](https://github-readme-stats.vercel.app/api?username=bibekuchiha&show_icons=true)](https://github.com/bibekuchiha/)
-
-
-
+![Bibek's github stats](https://github-readme-stats.vercel.app/api?username=bibekuchiha&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibekuchiha&layout=compact)](https://github.com/bibekuchiha/github-readme-stats)
 ### :gear: My skills include:
 
 - **Languages**: `Python`, `R`, `HTML / CSS / JS`
