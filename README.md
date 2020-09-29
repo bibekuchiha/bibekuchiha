@@ -5,8 +5,6 @@ I'm **[Bibek Shah Shankhar](https://www.linkedin.com/in/bibek-shah-shankhar/)**,
 Currently I am Learning and working on **[Data Science | Machine Learning | Deep learning](https://www.linkedin.com/in/bibek-shah-shankhar/)**. I work with python programming language for  data science and Machine learning. **You can find me on [LinkedIn](https://www.linkedin.com/in/bibek-shah-shankhar/)**.
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@BibekShahShankhar&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/bibek-shah-shankhar/)
- [![Instagram](https://img.shields.io/static/v1.svg?label=Instagram&message=@uchiha_bibek9&logo=Instagram&style=flat&color=blue)](https://www.instagram.com/uchiha_bibek9)
- [![Facebook](https://img.shields.io/static/v1.svg?label=Facebook&message=@bibek.shahshankhar&logo=Facebook&style=flat&color=blue)](https://www.facebook.com/bibek.shahshankhar/)
  [![Medium](https://img.shields.io/static/v1.svg?label=Medium&message=@bibekshahshankhar&logo=Medium&style=flat&color=blue)](https://medium.com/@bibekshahshankhar)
  
  
