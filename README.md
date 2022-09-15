@@ -19,6 +19,8 @@ I am liking to get **addicted to green dots** on [GitHub](https://github.com/bib
 
 - **Databases**: `MySQL`, `MongoDB`
 
+- **Big Data Tools**: `Hive`, `Sqoop`, `Pig`, `Hbase`
+
 - **Machine Learning**
 
 - **Deep Learning**
