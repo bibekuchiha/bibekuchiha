@@ -30,11 +30,7 @@ I bring a versatile toolkit of data science and engineering skills, including:
 
 ---
 
-### 🚀 Current Role & Key Projects
-As a Data Analyst at **PSA Halifax**, I’m responsible for bringing complex data insights to life through:
-- **Advanced Data Visualization:** Crafting real-time, interactive dashboards in **Power BI** and **Tableau** to guide data-driven decision-making
-- **Predictive Modeling & Automation:** Building models to predict key operational metrics and streamline processes, improving efficiency across departments
-- **Data Pipeline Development:** Developing **ETL pipelines** in Talend to maintain data quality and reliability across our systems
+
 
 ---
 
